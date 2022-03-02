@@ -1,0 +1,6 @@
+sbin/dhclient3
+sbin/dhclient-script
+usr/share/man/man8/dhclient3.8
+usr/share/man/man8/dhclient-script.8
+usr/share/man/man5/dhclient.conf.5
+usr/share/man/man5/dhclient.leases.5

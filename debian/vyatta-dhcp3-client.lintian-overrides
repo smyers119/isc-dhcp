@@ -1,0 +1,3 @@
+vyatta-dhcp3-client: no-debconf-config
+vyatta-dhcp3-client: postinst-uses-db-input
+vyatta-dhcp3-client: file-in-etc-not-marked-as-conffile
